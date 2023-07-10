@@ -1,2 +1,2 @@
-# Tic_Tac_Toe
-Developed a basic Tic Tac Toe game app using Java
+# Android app
+Developed a 2d game using java and XML in Android Studio .
