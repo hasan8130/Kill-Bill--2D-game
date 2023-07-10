@@ -15,4 +15,7 @@ Moreover, I used methods wherever required to avoid code duplication and enhance
 ![WhatsApp Image 2023-07-10 at 19 31 02](https://github.com/hasan8130/Facial-Recognition-Attendance-System/assets/67535635/73da0b78-336a-496d-83c3-053acd0a127e)
 ![WhatsApp Image 2023-07-10 at 19 30 26](https://github.com/hasan8130/Facial-Recognition-Attendance-System/assets/67535635/3b88c2c5-5f27-4150-8a33-294db43c6d0d)
 
+## Video LinK :
+Click [here](https://youtu.be/lUNWiQCV1v4)
+
 
