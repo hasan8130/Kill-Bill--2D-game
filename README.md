@@ -14,7 +14,8 @@ Each of the above classes can be dealt with seperaltely and treated as a single 
 Moreover, I used methods wherever required to avoid code duplication and enhance program maintenance and reusability.
 
 ## Screenshots:
-![image](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/d5f0640b-a638-45d3-a8e5-913b6a9f1aa0)
+![WhatsApp Image 2023-07-10 at 20 45 48](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/a7ec98a8-f5ac-40ab-9139-0d3b7c17c10d)
+
 
 ![WhatsApp Image 2023-07-10 at 19 31 02](https://github.com/hasan8130/Facial-Recognition-Attendance-System/assets/67535635/73da0b78-336a-496d-83c3-053acd0a127e)
 ![WhatsApp Image 2023-07-10 at 19 30 26](https://github.com/hasan8130/Facial-Recognition-Attendance-System/assets/67535635/3b88c2c5-5f27-4150-8a33-294db43c6d0d)
