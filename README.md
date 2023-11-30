@@ -12,6 +12,9 @@ I have tried to make use of OOP's concepts such as Inheritence and Abstraction w
 Each of the above classes can be dealt with seperaltely and treated as a single abstract entity .
 Moreover, I used methods wherever required to avoid code duplication and enhance program maintenance and reusability.
 
+Implemented a Multithreaded game loop using surface view to create animation effect and ensure smooth game play as well as frame
+rate control.
+
 ## Screenshots:
 ![WhatsApp Image 2023-07-10 at 20 45 48](https://github.com/hasan8130/Kill-Bill--2D-game/assets/67535635/a7ec98a8-f5ac-40ab-9139-0d3b7c17c10d)
 
